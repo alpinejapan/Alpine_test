@@ -1,0 +1,8 @@
+{
+    "custom": [{
+            "filename": "modules_statuses.json",
+            "path": "root"
+        }
+    ],
+    "version": "3.0.0"
+}

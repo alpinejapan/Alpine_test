@@ -1,0 +1,11 @@
+{
+    "name": "Heavy",
+    "alias": "heavy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Heavy\\Providers\\HeavyServiceProvider"
+    ],
+    "files": []
+}

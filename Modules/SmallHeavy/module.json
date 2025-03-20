@@ -1,0 +1,11 @@
+{
+    "name": "SmallHeavy",
+    "alias": "smallheavy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SmallHeavy\\Providers\\SmallHeavyServiceProvider"
+    ],
+    "files": []
+}

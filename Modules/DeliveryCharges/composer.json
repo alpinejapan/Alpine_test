@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/deliverycharges",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DeliveryCharges\\": "",
+            "Modules\\DeliveryCharges\\App\\": "app/",
+            "Modules\\DeliveryCharges\\Database\\Factories\\": "database/factories/",
+            "Modules\\DeliveryCharges\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\DeliveryCharges\\Tests\\": "tests/"
+        }
+    }
+}
